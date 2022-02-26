@@ -1,5 +1,5 @@
-# chat-app
-# [Link](https://chat-application-rooms.herokuapp.com/)
+# Vartalap
+# [View Project](https://chat-application-rooms.herokuapp.com/)
 ### On Joining the chat room you will be asked with your name and room you want to join
 ### If there are previous Members in that room you can start chatting with all of them
 ![1](https://user-images.githubusercontent.com/74761614/132416987-aba9b27c-755b-411d-84bb-a8e09021be6e.png)
